@@ -20,6 +20,7 @@
             app:layout_constraintVertical_bias="0.335" />
 
     <Button
+            android:id="@+id/show_notification"
             android:layout_width="wrap_content"
             android:layout_height="40dp"
             android:layout_marginStart="124dp"
